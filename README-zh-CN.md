@@ -4,10 +4,10 @@
 
 一个由 Astro 构建的，轻便简洁、快速强大的博客 & 文档主题。
 
-[![GitHub deployments](https://img.shields.io/github/deployments/cworld1/astro-theme-pure/production?style=flat&logo=vercel&label=vercel)](https://astro-pure.js.org/)
+[![GitHub deployments](https://img.shields.io/github/deployments/cangmao/astro-pure/production?style=flat&logo=vercel&label=vercel)](https://astro-pure.js.org/)
 [![NPM Version](https://img.shields.io/npm/v/astro-pure?logo=npm&style=flat)](https://www.npmjs.com/package/astro-pure)
-[![GitHub Release](https://img.shields.io/github/v/release/cworld1/astro-theme-pure?include_prereleases&style=flat&label=template)](https://github.com/cworld1/astro-theme-pure/releases)
-[![GitHub License](https://img.shields.io/github/license/cworld1/astro-theme-pure?style=flat)](https://github.com/cworld1/astro-theme-pure/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/cangmao/astro-pure?include_prereleases&style=flat&label=template)](https://github.com/cangmao/astro-pure/releases)
+[![GitHub License](https://img.shields.io/github/license/cangmao/astro-pure?style=flat)](https://github.com/cangmao/astro-pure/blob/main/LICENSE)
 
 ![image](./.github/assets/header.webp)
 ![image](./.github/assets/body.webp)
@@ -35,7 +35,7 @@
 
 主题包含了许多组件，不仅可以在主题中使用，还可以在其他 Astro 项目中使用。
 
-> 其他 Astro 项目使用需要 UnoCSS。更多详情请查阅 [Package README](https://github.com/cworld1/astro-theme-pure/blob/main/packages/pure/README.md#use-with-common-astro-project)。
+> 其他 Astro 项目使用需要 UnoCSS。更多详情请查阅 [Package README](https://github.com/cangmao/astro-pure/blob/main/packages/pure/README.md#use-with-common-astro-project)。
 
 - 基础组件：`Aside`、`Tabs`、`Timeline`、`Steps`、`Spoiler`...
 - 高级组件：`GithubCard`、`LinkPreview`、`Quote`、`QRCode`...
@@ -46,7 +46,7 @@
 
 ## 文档
 
-[文档](https://astro-pure.js.org/docs) | [展示台](https://github.com/cworld1/astro-theme-pure/issues/10)
+[文档](https://astro-pure.js.org/docs) | [展示台](https://github.com/cangmao/astro-pure/issues/10)
 
 ## NPM 包
 
@@ -61,7 +61,7 @@
 克隆存储库：
 
 ```shell
-git clone https://github.com/cworld1/astro-theme-pure.git
+git clone https://github.com/cangmao/astro-pure.git
 cd astro-theme-pure
 ```
 
@@ -100,4 +100,4 @@ bun new-post
 
 本项目基于 Apache 2.0 许可证。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=cworld1/astro-theme-pure&type=Date)](https://star-history.com/#cworld1/astro-theme-pure&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=cangmao/astro-pure&type=Date)](https://star-history.com/#cangmao/astro-pure&Date)

@@ -7,10 +7,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cworld1/astro-theme-pure.git",
+    "url": "git+https://github.com/cangmao/astro-pure.git",
     "directory": "packages/pure"
   },
-  "bugs": "https://github.com/cworld1/astro-theme-pure",
+  "bugs": "https://github.com/cangmao/astro-pure",
   "homepage": "https://astro-pure.js.org/",
   "keywords": [
     "Astro",

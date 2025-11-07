@@ -4,10 +4,10 @@ English | [简体中文](./README-zh-CN.md)
 
 A simple, fast and powerful blog & document theme built by Astro.
 
-[![GitHub deployments](https://img.shields.io/github/deployments/cworld1/astro-theme-pure/production?style=flat&logo=vercel&label=vercel)](https://astro-pure.js.org/)
+[![GitHub deployments](https://img.shields.io/github/deployments/cangmao/astro-pure/production?style=flat&logo=vercel&label=vercel)](https://astro-pure.js.org/)
 [![NPM Version](https://img.shields.io/npm/v/astro-pure?logo=npm&style=flat)](https://www.npmjs.com/package/astro-pure)
-[![GitHub Release](https://img.shields.io/github/v/release/cworld1/astro-theme-pure?include_prereleases&style=flat&label=template)](https://github.com/cworld1/astro-theme-pure/releases)
-[![GitHub License](https://img.shields.io/github/license/cworld1/astro-theme-pure?style=flat)](https://github.com/cworld1/astro-theme-pure/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/cangmao/astro-pure?include_prereleases&style=flat&label=template)](https://github.com/cangmao/astro-pure/releases)
+[![GitHub License](https://img.shields.io/github/license/cangmao/astro-pure?style=flat)](https://github.com/cangmao/astro-pure/blob/main/LICENSE)
 
 ![image](./.github/assets/header.webp)
 ![image](./.github/assets/body.webp)
@@ -35,7 +35,7 @@ Checkout [Demo Site →](https://astro-pure.js.org/)
 
 Theme includes a lot of components, which can not only be used in the theme, but also in other astro projects.
 
-> For other astro projects, UnoCSS is required. See [Package README](https://github.com/cworld1/astro-theme-pure/blob/main/packages/pure/README.md#use-with-common-astro-project) for more details.
+> For other astro projects, UnoCSS is required. See [Package README](https://github.com/cangmao/astro-pure/blob/main/packages/pure/README.md#use-with-common-astro-project) for more details.
 
 - Basic components: `Aside`, `Tabs`, `Timeline`, `Steps`, `Spoiler`...
 - Advanced components: `GithubCard`, `LinkPreview`, `Quote`, `QRCode`...
@@ -46,7 +46,7 @@ Theme includes a lot of components, which can not only be used in the theme, but
 
 ## Documentation
 
-[Docs](https://astro-pure.js.org/docs) | [Showcase](https://github.com/cworld1/astro-theme-pure/issues/10)
+[Docs](https://astro-pure.js.org/docs) | [Showcase](https://github.com/cangmao/astro-pure/issues/10)
 
 ## Package
 
@@ -61,7 +61,7 @@ Environment requirements:
 Clone the repository:
 
 ```shell
-git clone https://github.com/cworld1/astro-theme-pure.git
+git clone https://github.com/cangmao/astro-pure.git
 cd astro-theme-pure
 ```
 
@@ -100,4 +100,4 @@ Other third party references are on [Docs#Contributions](https://astro-pure.js.o
 
 This project is licensed under the Apache 2.0 License.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=cworld1/astro-theme-pure&type=Date)](https://star-history.com/#cworld1/astro-theme-pure&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=cangmao/astro-pure&type=Date)](https://star-history.com/#cangmao/astro-pure&Date)
