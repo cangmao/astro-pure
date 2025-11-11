@@ -7,7 +7,7 @@ export const theme: ThemeUserConfig = {
   /** Will be used in index page & copyright declaration */
   author: 'cangmao',
   /** Description metadata for your website. Can be used in page metadata. */
-  description: 'Do what makes you happy, be with who makes you smile, laugh as much as you breathe, and love as long as you live.',
+  description: 'cangmao. cangmao space. self-improvement. clinical trial. medical research.coding. English learning.',
   /** The default favicon for your site which should be a path to an image in the `public/` directory. */
   favicon: '/favicon/favicon.ico',
   /** Specify the default language for this site. */
@@ -50,7 +50,7 @@ export const theme: ThemeUserConfig = {
       { title: 'Blog', link: '/blog' },
       { title: 'Docs', link: '/docs' },
       { title: 'Projects', link: '/projects' },
-      { title: 'Links', link: '/links' },
+      // { title: 'Links', link: '/links' },
       { title: 'About', link: '/about' }
     ]
   },
@@ -59,28 +59,28 @@ export const theme: ThemeUserConfig = {
   footer: {
     // Year format
     // year: `© ${new Date().getFullYear()}`,
-    year: `© 2026 - ${new Date().getFullYear()}`,
+    year: `© 2025 - ${new Date().getFullYear()}`,
     links: [
       // Registration link
-      {
-        title: 'Moe ICP 114514',
-        link: 'https://icp.gov.moe/?keyword=114514',
-        style: 'text-sm' // Uno/TW CSS class
-      },
-      {
-        title: 'Travelling',
-        link: 'https://www.travellings.cn/go.html',
-        style: 'text-sm'
-      },
+      // {
+      //   title: 'Moe ICP 114514',
+      //   link: 'https://icp.gov.moe/?keyword=114514',
+      //   style: 'text-sm' // Uno/TW CSS class
+      // },
+      // {
+      //   title: 'Travelling',
+      //   link: 'https://www.travellings.cn/go.html',
+      //   style: 'text-sm'
+      // },
       // Privacy Policy link
-      {
-        title: 'Site Policy',
-        link: '/terms/list',
-        pos: 2 // position set to 2 will be appended to copyright line
-      }
+      // {
+      //   title: 'Site Policy',
+      //   link: '/terms/list',
+      //   pos: 2 // position set to 2 will be appended to copyright line
+      // }
     ],
     /** Enable displaying a “Astro & Pure theme powered” link in your site’s footer. */
-    credits: true,
+    credits: false,
     /** Optional details about the social media accounts for this site. */
     social: { github: 'https://github.com/cangmao/astro-pure' }
   },
